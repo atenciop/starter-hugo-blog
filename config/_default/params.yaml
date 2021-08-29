@@ -7,7 +7,7 @@
 
 theme: starter-blog
 day_night: true
-font: ''
+font: Mr Robot
 font_size: L
 
 # SEO
@@ -50,7 +50,7 @@ edit_page:
     post: false
 show_related:
   post: true
-email: Contact@PedroAtencio.com
+email: Pedro@PedroAtencio.com
 sharing_image: ''
 reading_time: true
 section_pager: true
